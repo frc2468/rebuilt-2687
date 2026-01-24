@@ -5,6 +5,6 @@
 	path = bordeaux-2687-rebuilt
 	url = https://github.com/frc2468/bordeaux.git
 	branch = choreo-integration
-[submodule "Dashboard"]
-	path = Dashboard
+[submodule "dashboard"]
+	path = dashboard
 	url = https://github.com/frc2468/rebuilt-dashboard-2687.git
