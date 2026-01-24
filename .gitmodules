@@ -1,4 +1,4 @@
-[submodule "swerve"]
+[submodule "swerve-template"]
 	path = swerve
 	url = https://github.com/frc2468/swerve-template.git
 [submodule "bordeaux-2687-rebuilt"]
