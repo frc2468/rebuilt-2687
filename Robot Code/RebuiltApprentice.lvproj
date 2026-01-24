@@ -121,7 +121,7 @@ AddOutputFilter chunkFilter
 		<Item Name="Teleop.vi" Type="VI" URL="../Teleop.vi"/>
 		<Item Name="Autonomous.vi" Type="VI" URL="../Autonomous.vi"/>
 		<Item Name="SubSystems.vi" Type="VI" URL="../SubSystems.vi"/>
-		<Item Name="NEO-NEO-ThroughBore-Pigeon2 Swerve Config.ctl" Type="VI" URL="../../swerve/Type Definitions/Hardware/Swerve Configs/NEO-NEO-ThroughBore-Pigeon2 Swerve Config.ctl"/>
+		<Item Name="NEO-NEO-ThroughBore-Pigeon2 Swerve Config.ctl" Type="VI" URL="../../swerve-template/Type Definitions/Hardware/Swerve Configs/NEO-NEO-ThroughBore-Pigeon2 Swerve Config.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Paths" Type="Source Distribution">
