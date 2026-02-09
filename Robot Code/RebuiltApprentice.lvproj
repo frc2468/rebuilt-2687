@@ -140,6 +140,8 @@ AddOutputFilter chunkFilter
 		<Item Name="Autonomous.vi" Type="VI" URL="../Autonomous.vi"/>
 		<Item Name="SubSystems.vi" Type="VI" URL="../SubSystems.vi"/>
 		<Item Name="NEO-NEO-ThroughBore-Pigeon2 Swerve Config.ctl" Type="VI" URL="../../swerve-template/Type Definitions/Hardware/Swerve Configs/NEO-NEO-ThroughBore-Pigeon2 Swerve Config.ctl"/>
+		<Item Name="Forward Kinematics.vi" Type="VI" URL="../../swerve-template/math/Forward Kinematics.vi"/>
+		<Item Name="Dashboard Swerve Visual.vi" Type="VI" URL="../../swerve-template/test/Inverse Kinematics Test/Dashboard Swerve Visual.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Paths" Type="Source Distribution">
