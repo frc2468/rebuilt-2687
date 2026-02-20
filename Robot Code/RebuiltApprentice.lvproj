@@ -111,9 +111,6 @@ AddOutputFilter chunkFilter
 		<Item Name="Support Code" Type="Folder" URL="../Support Code">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="Vision" Type="Folder" URL="../Vision">
-			<Property Name="NI.DISK" Type="Bool">true</Property>
-		</Item>
 		<Item Name="Paths" Type="Folder" URL="../Paths">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
