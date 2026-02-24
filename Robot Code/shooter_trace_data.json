@@ -1,0 +1,842 @@
+{
+  "Hopper/Commands/Hopper Immediate.vi": {
+    "refs": [
+      "Command Status Info.ctl",
+      "Command Status Info.ctlPTH0",
+      "Completion Notifier.ctl",
+      "Completion Notifier.ctlPTH0",
+      "Completion Status.ctl",
+      "Completion Status.ctlPTH0",
+      "Hopper Command Helper.vi",
+      "Hopper Immediate.vi",
+      "Hopper Operations.ctl",
+      "Hopper Operations.ctlPTH0",
+      "Hopper Setpoints.ctl"
+    ],
+    "interesting": [
+      "Command Status Info.ctlPTH0",
+      "Command Status Info.ctl",
+      "Completion Notifier.ctlPTH0",
+      "Completion Notifier.ctl",
+      "Hopper Operations.ctlPTH0",
+      "Hopper Operations.ctl",
+      "Hopper Setpoints.ctl",
+      "Hopper Command Helper.vi",
+      "This template  is useful for immediate subsystem actions that do not need deadband filtering",
+      "Be sure to right-click and select New from Template and save with a new command name.",
+      "joystickd",
+      "Hopper",
+      "Hopper Immediate.vi"
+    ]
+  },
+  "Hopper/Commands/Reserve Hopper.vi": {
+    "refs": [
+      "Command Status Info.ctl",
+      "Command Status Info.ctlPTH0",
+      "Completion Notifier.ctl",
+      "Completion Notifier.ctlPTH0",
+      "Completion Status.ctl",
+      "Completion Status.ctlPTH0",
+      "Hopper Command Helper.vi",
+      "Hopper Operations.ctl",
+      "Hopper Operations.ctlPTH0",
+      "Hopper Setpoints.ctl",
+      "Reserve Hopper.vi"
+    ],
+    "interesting": [
+      "Command Status Info.ctlPTH0",
+      "Command Status Info.ctl",
+      "Completion Notifier.ctlPTH0",
+      "Completion Notifier.ctl",
+      "Hopper Setpoints.ctl",
+      "Hopper Operations.ctlPTH0",
+      "Hopper Operations.ctl",
+      "Hopper Command Helper.vi",
+      "Hopper",
+      "Reserve Hopper.vi"
+    ]
+  },
+  "Shooter/Commands/Hood Manual.vi": {
+    "refs": [
+      "Command Status Info.ctl",
+      "Command Status Info.ctlPTH0",
+      "Completion Notifier.ctl",
+      "Completion Notifier.ctlPTH0",
+      "Completion Status.ctl",
+      "Completion Status.ctlPTH0",
+      "Hood Manual.vi",
+      "Robot Velocities.ctl",
+      "Shooter Command Helper.vi",
+      "Shooter Command Helper.viPTH0",
+      "Shooter Operations.ctl",
+      "Shooter Setpoints.ctl",
+      "Shooter Setpoints.ctlPTH0"
+    ],
+    "interesting": [
+      "Command Status Info.ctlPTH0",
+      "Command Status Info.ctl",
+      "Completion Notifier.ctlPTH0",
+      "Completion Notifier.ctl",
+      "Shooter Operations.ctl",
+      "Shooter Setpoints.ctlPTH0",
+      "Shooter Setpoints.ctl",
+      "Shooter Command Helper.viPTH0",
+      "Shooter Command Helper.vi",
+      "This template  is useful for immediate subsystem actions that do not need deadband filtering",
+      "Be sure to right-click and select New from Template and save with a new command name.",
+      "joystickd",
+      "Shoot",
+      "Hood Manual.vi"
+    ]
+  },
+  "Shooter/Commands/Interpolated Shot.vi": {
+    "refs": [
+      "Command Status Info.ctl",
+      "Command Status Info.ctlPTH0",
+      "Completion Notifier.ctl",
+      "Completion Notifier.ctlPTH0",
+      "Completion Status.ctl",
+      "Completion Status.ctlPTH0",
+      "Interpolated Shot.vi",
+      "Robot Velocities.ctl",
+      "Shooter Command Helper.vi",
+      "Shooter Command Helper.viPTH0",
+      "Shooter Operations.ctl",
+      "Shooter Setpoints.ctl",
+      "Shooter Setpoints.ctlPTH0"
+    ],
+    "interesting": [
+      "Command Status Info.ctlPTH0",
+      "Command Status Info.ctl",
+      "Completion Notifier.ctlPTH0",
+      "Completion Notifier.ctl",
+      "Shooter Operations.ctl",
+      "Shooter Setpoints.ctlPTH0",
+      "Shooter Setpoints.ctl",
+      "Shooter Command Helper.viPTH0",
+      "Shooter Command Helper.vi",
+      "This template  is useful for immediate subsystem actions that do not need deadband filtering",
+      "Be sure to right-click and select New from Template and save with a new command name.",
+      "joystickd",
+      "Shoot",
+      "Interpolated Shot.vi"
+    ]
+  },
+  "Shooter/Commands/Read Shooter Operation.vi": {
+    "refs": [
+      "Command Status Info.ctl",
+      "Command Status Info.ctlPTH0",
+      "Completion Notifier.ctl",
+      "Completion Notifier.ctlPTH0",
+      "Completion Status.ctl",
+      "Completion Status.ctlPTH0",
+      "Read Shooter Operation.vi",
+      "Robot Velocities.ctl",
+      "Shooter Command Helper.vi",
+      "Shooter Command Helper.viPTH0",
+      "Shooter Operations.ctl",
+      "Shooter Setpoints.ctl",
+      "Shooter Setpoints.ctlPTH0"
+    ],
+    "interesting": [
+      "Command Status Info.ctlPTH0",
+      "Command Status Info.ctl",
+      "Completion Notifier.ctlPTH0",
+      "Completion Notifier.ctl",
+      "Shooter Setpoints.ctlPTH0",
+      "Shooter Setpoints.ctl",
+      "Shooter Operations.ctl",
+      "Shooter Command Helper.viPTH0",
+      "Shooter Command Helper.vi",
+      "This returns the most recently scheduled command. This doesn't indicate whether the command finished and is running the default command.",
+      "Shoot",
+      "Read Shooter Operation.vi"
+    ]
+  },
+  "Shooter/Commands/Reserve Shooter.vi": {
+    "refs": [
+      "Command Status Info.ctl",
+      "Command Status Info.ctlPTH0",
+      "Completion Notifier.ctl",
+      "Completion Notifier.ctlPTH0",
+      "Completion Status.ctl",
+      "Completion Status.ctlPTH0",
+      "Reserve Shooter.vi",
+      "Robot Velocities.ctl",
+      "Shooter Command Helper.vi",
+      "Shooter Command Helper.viPTH0",
+      "Shooter Operations.ctl",
+      "Shooter Setpoints.ctl",
+      "Shooter Setpoints.ctlPTH0"
+    ],
+    "interesting": [
+      "Command Status Info.ctlPTH0",
+      "Command Status Info.ctl",
+      "Completion Notifier.ctlPTH0",
+      "Completion Notifier.ctl",
+      "Shooter Setpoints.ctlPTH0",
+      "Shooter Setpoints.ctl",
+      "Shooter Operations.ctl",
+      "Shooter Command Helper.viPTH0",
+      "Shooter Command Helper.vi",
+      "Shoot",
+      "Reserve Shooter.vi"
+    ]
+  },
+  "Shooter/Commands/Reset Hood.vi": {
+    "refs": [
+      "Command Status Info.ctl",
+      "Command Status Info.ctlPTH0",
+      "Completion Notifier.ctl",
+      "Completion Notifier.ctlPTH0",
+      "Completion Status.ctl",
+      "Completion Status.ctlPTH0",
+      "Reset Hood.vi",
+      "Robot Velocities.ctl",
+      "Shooter Command Helper.vi",
+      "Shooter Command Helper.viPTH0",
+      "Shooter Operations.ctl",
+      "Shooter Setpoints.ctl",
+      "Shooter Setpoints.ctlPTH0"
+    ],
+    "interesting": [
+      "Command Status Info.ctlPTH0",
+      "Command Status Info.ctl",
+      "Completion Notifier.ctlPTH0",
+      "Completion Notifier.ctl",
+      "Shooter Operations.ctl",
+      "Shooter Setpoints.ctlPTH0",
+      "Shooter Setpoints.ctl",
+      "Shooter Command Helper.viPTH0",
+      "Shooter Command Helper.vi",
+      "This template  is useful for immediate subsystem actions that do not need deadband filtering",
+      "Be sure to right-click and select New from Template and save with a new command name.",
+      "Shoot",
+      "Reset Hood.vi"
+    ]
+  },
+  "Shooter/Commands/Shooter Immediate.vi": {
+    "refs": [
+      "Command Status Info.ctl",
+      "Command Status Info.ctlPTH0",
+      "Completion Notifier.ctl",
+      "Completion Notifier.ctlPTH0",
+      "Completion Status.ctl",
+      "Completion Status.ctlPTH0",
+      "Robot Velocities.ctl",
+      "Shooter Command Helper.vi",
+      "Shooter Command Helper.viPTH0",
+      "Shooter Immediate.vi",
+      "Shooter Operations.ctl",
+      "Shooter Setpoints.ctl",
+      "Shooter Setpoints.ctlPTH0"
+    ],
+    "interesting": [
+      "Command Status Info.ctlPTH0",
+      "Command Status Info.ctl",
+      "Completion Notifier.ctlPTH0",
+      "Completion Notifier.ctl",
+      "Shooter Operations.ctl",
+      "Shooter Setpoints.ctlPTH0",
+      "Shooter Setpoints.ctl",
+      "Shooter Command Helper.viPTH0",
+      "Shooter Command Helper.vi",
+      "This template  is useful for immediate subsystem actions that do not need deadband filtering",
+      "Be sure to right-click and select New from Template and save with a new command name.",
+      "joystickd",
+      "Shoot",
+      "Shooter Immediate.vi"
+    ]
+  },
+  "Shooter/Implementation/Infrastructure/Shooter Check for New Command.vi": {
+    "refs": [
+      "Command Status Info.ctl",
+      "Command Status Info.ctlPTH0",
+      "Completion Notifier.ctl",
+      "Completion Notifier.ctlPTH0",
+      "Completion Status.ctl",
+      "Completion Status.ctlPTH0",
+      "Robot Velocities.ctl",
+      "Shooter Check for New Command.vi",
+      "Shooter Operations.ctl",
+      "Shooter Published Globals.vi",
+      "Shooter Setpoints.ctl",
+      "Shooter Setpoints.ctlPTH0"
+    ],
+    "interesting": [
+      "Shooter Setpoints.ctlPTH0",
+      "Shooter Setpoints.ctl",
+      "Shooter Operations.ctl",
+      "Command Status Info.ctlPTH0",
+      "Command Status Info.ctl",
+      "Completion Notifier.ctlPTH0",
+      "Completion Notifier.ctl",
+      "Shooter Published Globals.vi",
+      "This VI is called for each controller loop iteration. It checks for new commands, updates timing data, and upon completion, notifies any waiting commands.",
+      "Shoot",
+      "Shooter Check for New Command.vi"
+    ]
+  },
+  "Shooter/Implementation/Infrastructure/Shooter Command Helper.vi": {
+    "refs": [
+      "Command Status Info.ctl",
+      "Command Status Info.ctlPTH0",
+      "Completion Notifier.ctl",
+      "Completion Notifier.ctlPTH0",
+      "Completion Status.ctl",
+      "Completion Status.ctlPTH0",
+      "Robot Velocities.ctl",
+      "Shooter Command Helper.vi",
+      "Shooter Operations.ctl",
+      "Shooter Published Globals.vi",
+      "Shooter Setpoints.ctl",
+      "Shooter Setpoints.ctlPTH0",
+      "Should Abort Operation.vi",
+      "Should Abort Operation.viPTH0"
+    ],
+    "interesting": [
+      "Shooter Setpoints.ctlPTH0",
+      "Shooter Setpoints.ctl",
+      "Shooter Operations.ctl",
+      "Command Status Info.ctlPTH0",
+      "Command Status Info.ctl",
+      "Completion Notifier.ctlPTH0",
+      "Completion Notifier.ctl",
+      "Shooter Published Globals.vi",
+      "Should Abort Operation.viPTH0",
+      "Should Abort Operation.vi",
+      "Shoot",
+      "Shooter Command Helper.vi"
+    ]
+  },
+  "Shooter/Implementation/Infrastructure/Shooter Controller Initialization.vi": {
+    "refs": [
+      "$Shooter Controller Initialization.vi",
+      "Command Status Info.ctl",
+      "Command Status Info.ctlPTH0",
+      "Completion Notifier.ctl",
+      "Completion Notifier.ctlPTH0",
+      "Completion Status.ctl",
+      "Completion Status.ctlPTH0",
+      "Robot Velocities.ctl",
+      "Shooter Operations.ctl",
+      "Shooter Published Globals.vi",
+      "Shooter Setpoints.ctl",
+      "Shooter Setpoints.ctlPTH0"
+    ],
+    "interesting": [
+      "Shooter Setpoints.ctlPTH0",
+      "Shooter Setpoints.ctl",
+      "Shooter Operations.ctl",
+      "Command Status Info.ctlPTH0",
+      "Command Status Info.ctl",
+      "Completion Notifier.ctlPTH0",
+      "Completion Notifier.ctl",
+      "Shooter Published Globals.vi",
+      "This VI is called once for the subsystem. It allocates the notifier and combines the timing, default command, and other information into a single data wire.",
+      "Shoot",
+      "$Shooter Controller Initialization.vi"
+    ]
+  },
+  "Shooter/Implementation/Infrastructure/Shooter Controller Interactive Check.vi": {
+    "refs": [
+      "'Shooter Controller Interactive Check.vi",
+      "Robot Velocities.ctl",
+      "Shooter Operations.ctl",
+      "Shooter Setpoints.ctl",
+      "Shooter Setpoints.ctlPTH0"
+    ],
+    "interesting": [
+      "Shooter Setpoints.ctlPTH0",
+      "Shooter Setpoints.ctl",
+      "Shooter Operations.ctl",
+      "JCheck the Execute and Abort  buttons and choose the data and trace string.",
+      "Shoot",
+      "'Shooter Controller Interactive Check.vi"
+    ]
+  },
+  "Shooter/Implementation/Shooter Controller.vi": {
+    "refs": [
+      "\"SPARK Configure Basic Idle Mode.vi",
+      "$SPARK Configure Closed Loop Gains.vi",
+      "$SPARK Get Encoder Status Position.vi",
+      "$SPARK Get Encoder Status Velocity.vi",
+      "$Shooter Controller Initialization.vi",
+      "%SPARK Configure Soft Limit Forward.viPTH0",
+      "&SPARK Configure Power Current Limit.vi",
+      "'Shooter Controller Interactive Check.viPTH0",
+      "+SPARK Configure Closed Loop Output Range.viPTH0",
+      "Completion Status.ctl",
+      "Completion Status.ctlPTH0",
+      "Globals.vi",
+      "Infrastructure Shooter Check for New Command.vi",
+      "Infrastructure$Shooter Controller Initialization.vi",
+      "Infrastructure'Shooter Controller Interactive Check.vi",
+      "NT Read Float Array.vi",
+      "NT Read Value.vi",
+      "NT Write Boolean.vi",
+      "NT Write Boolean.viPTH0",
+      "NT Write Value.vi",
+      "NT Write Value.viPTH0",
+      "Public\"SPARK Configure Basic Idle Mode.vi",
+      "Public$SPARK Configure Closed Loop Gains.vi",
+      "Public$SPARK Get Encoder Status Position.vi",
+      "Public$SPARK Get Encoder Status Velocity.vi",
+      "Public%SPARK Configure Soft Limit Forward.vi",
+      "Public&SPARK Configure Power Current Limit.vi",
+      "Public+SPARK Configure Closed Loop Output Range.vi",
+      "Read Shooter Operation.vi",
+      "Read Shooter Operation.viPTH0",
+      "Robot Velocities.ctl",
+      "SPARK Closed Loop Slot.ctl",
+      "SPARK Configure Basic.vi",
+      "SPARK Configure Closed Loop.vi",
+      "SPARK Configure Power.vi",
+      "SPARK Configure Soft Limit.vi",
+      "SPARK Configure Soft Limit.viPTH0",
+      "SPARK Feed Forward Gains.ctl",
+      "SPARK Get Encoder Status.vi",
+      "SPARK Get Encoder Status.viPTH0",
+      "SPARK Open Brushless.vi",
+      "SPARK Open Brushless.viPTH0",
+      "SPARK Open.vi",
+      "SPARK Open.viPTH0",
+      "SPARK PID Gains.ctl",
+      "SPARK PID Gains.ctlPTH0",
+      "SPARK Set Output Advanced.vi",
+      "SPARK Set Sensor Position.vi",
+      "Shooter Check for New Command.vi",
+      "Shooter Command Helper.vi",
+      "Shooter Command Helper.viPTH0",
+      "Shooter Controller.vi",
+      "Shooter Operations.ctl",
+      "Shooter Setpoints.ctl",
+      "Shooter Setpoints.ctlPTH0",
+      "Spark MAX Control Type.ctl",
+      "Spark MAX Idle Mode.ctl",
+      "Spark MAX Idle Mode.ctlPTH0",
+      "Trace Results.vi"
+    ],
+    "interesting": [
+      "Shooter Setpoints.ctlPTH0",
+      "Shooter Setpoints.ctl",
+      "Shooter Operations.ctl",
+      "SPARK PID Gains.ctlPTH0",
+      "SPARK PID Gains.ctl",
+      "SPARK Feed Forward Gains.ctl",
+      "Spark MAX Idle Mode.ctlPTH0",
+      "Spark MAX Idle Mode.ctl",
+      "SPARK Closed Loop Slot.ctl",
+      "Spark MAX Control Type.ctl",
+      "'Shooter Controller Interactive Check.viPTH0",
+      "Infrastructure'Shooter Controller Interactive Check.vi",
+      "Read Shooter Operation.viPTH0",
+      "Commands",
+      "Read Shooter Operation.vi",
+      "Shooter Command Helper.viPTH0",
+      "Shooter Command Helper.vi",
+      "$Shooter Controller Initialization.vi",
+      "Infrastructure$Shooter Controller Initialization.vi",
+      "SPARK Open.viPTH0",
+      "SPARK Open.vi",
+      "SPARK Open Brushless.viPTH0",
+      "SPARK Open Brushless.vi",
+      "SPARK Configure Power.vi",
+      "&SPARK Configure Power Current Limit.vi",
+      "Public&SPARK Configure Power Current Limit.vi",
+      "SPARK Configure Closed Loop.vi",
+      "+SPARK Configure Closed Loop Output Range.viPTH0",
+      "Public+SPARK Configure Closed Loop Output Range.vi",
+      "SPARK Configure Soft Limit.viPTH0",
+      "SPARK Configure Soft Limit.vi",
+      "%SPARK Configure Soft Limit Forward.viPTH0",
+      "Public%SPARK Configure Soft Limit Forward.vi",
+      "$SPARK Configure Closed Loop Gains.vi",
+      "Public$SPARK Configure Closed Loop Gains.vi",
+      "SPARK Configure Basic.vi",
+      "\"SPARK Configure Basic Idle Mode.vi",
+      "Public\"SPARK Configure Basic Idle Mode.vi",
+      "SPARK Get Encoder Status.viPTH0",
+      "SPARK Get Encoder Status.vi",
+      "$SPARK Get Encoder Status Position.vi",
+      "Public$SPARK Get Encoder Status Position.vi",
+      "$SPARK Get Encoder Status Velocity.vi",
+      "Public$SPARK Get Encoder Status Velocity.vi",
+      "Globals.vi",
+      "SPARK Set Output Advanced.vi",
+      "SPARK Set Sensor Position.vi",
+      "NT Read Value.vi",
+      "Network Tables",
+      "NT Read Float Array.vi",
+      "Shooter Check for New Command.vi",
+      "Infrastructure Shooter Check for New Command.vi",
+      "NT Write Value.viPTH0",
+      "NT Write Value.vi",
+      "NT Write Boolean.viPTH0",
+      "NT Write Boolean.vi",
+      "Setpointd",
+      "Shoot",
+      "Shooter Controller.vi"
+    ]
+  },
+  "Shooter/Implementation/Shooter Operations.ctl": {
+    "refs": [
+      "Shooter Operations.ctl"
+    ],
+    "interesting": [
+      "wThis enumeration lists all operating modes that the subsystem supports. You should maintain the first three operations.",
+      "Shoot",
+      "Shooter Operations.ctl"
+    ]
+  },
+  "Shooter/Implementation/Shooter Published Globals.vi": {
+    "refs": [
+      "Command Status Info.ctl",
+      "Command Status Info.ctlPTH0",
+      "Completion Notifier.ctl",
+      "Completion Notifier.ctlPTH0",
+      "Completion Status.ctl",
+      "Completion Status.ctlPTH0",
+      "Robot Velocities.ctl",
+      "Shooter Operations.ctl",
+      "Shooter Published Globals.vi",
+      "Shooter Setpoints.ctl",
+      "Shooter Setpoints.ctlPTH0"
+    ],
+    "interesting": [
+      "Shooter Setpoints.ctlPTH0",
+      "Shooter Setpoints.ctl",
+      "Shooter Operations.ctl",
+      "Command Status Info.ctlPTH0",
+      "Command Status Info.ctl",
+      "Completion Notifier.ctlPTH0",
+      "Completion Notifier.ctl",
+      "Shoot",
+      "Shooter Published Globals.vi"
+    ]
+  },
+  "Shooter/Implementation/Shooter Setpoints.ctl": {
+    "refs": [
+      "Robot Velocities.ctl",
+      "Shooter Operations.ctl",
+      "Shooter Setpoints.ctl"
+    ],
+    "interesting": [
+      "Shooter Operations.ctl",
+      "Shoot",
+      "Shooter Setpoints.ctl"
+    ]
+  },
+  "Support Code/Ballistic Utils/Choose Manual Shot Type.vi": {
+    "refs": [
+      "Choose Manual Shot Type.vi"
+    ],
+    "interesting": [
+      "Choose Manual Shot Type.vi"
+    ]
+  },
+  "Support Code/Ballistic Utils/Compute LUT.vi": {
+    "refs": [
+      "Compute LUT.vi",
+      "Get Distance LUT.vi",
+      "Get Distance LUT.viPTH0",
+      "Get Hood LUT.vi",
+      "Get Hood LUT.viPTH0",
+      "Get LUT Polymorphic.vi",
+      "Get Shooter LUT.vi",
+      "Polynomial Interpolation.vi",
+      "Polynomial Interpolation.viPTH0"
+    ],
+    "interesting": [
+      "Polynomial Interpolation.viPTH0",
+      "Polynomial Interpolation.vi",
+      "Get LUT Polymorphic.vi",
+      "Get Shooter LUT.vi",
+      "Get Distance LUT.viPTH0",
+      "Get Distance LUT.vi",
+      "Get Hood LUT.viPTH0",
+      "Get Hood LUT.vi",
+      "LUT",
+      "Compute LUT.vi"
+    ]
+  },
+  "Support Code/Ballistic Utils/Get Distance LUT.vi": {
+    "refs": [
+      "Get Distance LUT.vi"
+    ],
+    "interesting": [
+      "LUT",
+      "Get Distance LUT.vi"
+    ]
+  },
+  "Support Code/Ballistic Utils/Get Hood LUT.vi": {
+    "refs": [
+      "Get Hood LUT.vi"
+    ],
+    "interesting": [
+      "LUT",
+      "Get Hood LUT.vi"
+    ]
+  },
+  "Support Code/Ballistic Utils/Get LUT Polymorphic.vi": {
+    "refs": [
+      "Get Distance LUT.vi",
+      "Get Distance LUT.viPTH0",
+      "Get Hood LUT.vi",
+      "Get Hood LUT.viPTH0",
+      "Get LUT Polymorphic.vi",
+      "Get Shooter LUT.vi"
+    ],
+    "interesting": [
+      "Get Distance LUT.viPTH0",
+      "Get Distance LUT.vi",
+      "Get Shooter LUT.vi",
+      "Get Hood LUT.viPTH0",
+      "Get Hood LUT.vi",
+      "Distance",
+      "Shooter",
+      "Hood",
+      "Get LUT Polymorphic.vi"
+    ]
+  },
+  "Support Code/Ballistic Utils/Get Shooter LUT.vi": {
+    "refs": [
+      "Get Shooter LUT.vi"
+    ],
+    "interesting": [
+      "LUT",
+      "Get Shooter LUT.vi"
+    ]
+  },
+  "Support Code/Ballistic Utils/Shmove Shot Adjust.vi": {
+    "refs": [
+      "Get Distance LUT.vi",
+      "Get Distance LUT.viPTH0",
+      "Get LUT Polymorphic.vi",
+      "Robot Velocities.ctl",
+      "Shmove Shot Adjust.vi"
+    ],
+    "interesting": [
+      "Get LUT Polymorphic.vi",
+      "Get Distance LUT.viPTH0",
+      "Get Distance LUT.vi"
+    ]
+  },
+  "Support Code/Ballistic Utils/Shoot Fuel.vi": {
+    "refs": [
+      "Compute LUT.vi",
+      "Distance to Hub.vi",
+      "Robot Velocities.ctl",
+      "Shoot Fuel.vi"
+    ],
+    "interesting": [
+      "Distance to Hub.vi",
+      "Compute LUT.vi",
+      "Shoot Fuel.vi"
+    ]
+  },
+  "Support Code/Distance to Hub.vi": {
+    "refs": [
+      "Distance to Hub.vi",
+      "Get Hub Location.vi",
+      "Get Hub Location.viPTH0",
+      "NT Read Float Array.vi",
+      "NT Read Number.vi",
+      "NT Read Number.viPTH0",
+      "NT Read Value.vi"
+    ],
+    "interesting": [
+      "NT Read Value.vi",
+      "Network Tables",
+      "NT Read Float Array.vi",
+      "NT Read Number.viPTH0",
+      "NT Read Number.vi",
+      "Get Hub Location.viPTH0",
+      "Get Hub Location.vi",
+      "stateDiagramd",
+      "Distance to Hub.vi"
+    ]
+  },
+  "Support Code/Teleop Handlers/Shoot Teleop Handler.vi": {
+    "refs": [
+      "\"WPI_JoystickRefNum Registry Get.vi",
+      "Choose Manual Shot Type.vi",
+      "Hood Manual.vi",
+      "Hopper Immediate.vi",
+      "Hopper Immediate.viPTH0",
+      "Hopper Operations.ctl",
+      "Hopper Operations.ctlPTH0",
+      "Joystick\"WPI_JoystickRefNum Registry Get.vi",
+      "Reserve Hopper.vi",
+      "Reserve Hopper.viPTH0",
+      "Reserve Transfer.vi",
+      "Reserve Transfer.viPTH0",
+      "Reset Hood.vi",
+      "Reset Hood.viPTH0",
+      "Robot Velocities.ctl",
+      "Shoot Fuel.vi",
+      "Shoot Fuel.viPTH0",
+      "Shoot Teleop Handler.vi",
+      "Shooter Immediate.vi",
+      "Shooter Operations.ctl",
+      "Simple Edge Detection.vi",
+      "Transfer Immediate.vi",
+      "Transfer Immediate.viPTH0",
+      "WPI_GetSetVariantRefNum.vi",
+      "WPI_JoystickGetValues.vi",
+      "XBox Axes Indexer.ctl",
+      "XBox Axes Indexer.ctlPTH0",
+      "XBox Buttons Indexer.ctl"
+    ],
+    "interesting": [
+      "XBox Buttons Indexer.ctl",
+      "Joystick",
+      "XBox Axes Indexer.ctlPTH0",
+      "XBox Axes Indexer.ctl",
+      "Hopper Operations.ctlPTH0",
+      "Hopper",
+      "Hopper Operations.ctl",
+      "Shooter Operations.ctl",
+      "Shooter",
+      "\"WPI_JoystickRefNum Registry Get.vi",
+      "Joystick\"WPI_JoystickRefNum Registry Get.vi",
+      "WPI_JoystickGetValues.vi",
+      "Simple Edge Detection.vi",
+      "Reset Hood.viPTH0",
+      "Commands",
+      "Reset Hood.vi",
+      "Choose Manual Shot Type.vi",
+      "Shoot Fuel.viPTH0",
+      "Shoot Fuel.vi",
+      "Hood Manual.vi",
+      "Shooter Immediate.vi",
+      "Reserve Transfer.viPTH0",
+      "Transfer",
+      "Reserve Transfer.vi",
+      "Reserve Hopper.viPTH0",
+      "Reserve Hopper.vi",
+      "Hopper Immediate.viPTH0",
+      "Hopper Immediate.vi",
+      "Transfer Immediate.viPTH0",
+      "Transfer Immediate.vi",
+      "SHOOT",
+      "Shoot Teleop Handler.vi"
+    ]
+  },
+  "Teleop.vi": {
+    "refs": [
+      "\"WPI_JoystickRefNum Registry Get.vi",
+      "%WPI_DriverStationDerivedRobotMode.ctlPTH0",
+      "+WPI_DriverStationReport Robot Code State.viPTH0",
+      "Climb Teleop Handler.vi",
+      "Climb Teleop Handler.viPTH0",
+      "Drive Immediate.vi",
+      "Drive Operations.ctl",
+      "Drive Teleop Handler.vi",
+      "Drive Teleop Handler.viPTH0",
+      "DriverStation%WPI_DriverStationDerivedRobotMode.ctl",
+      "DriverStation+WPI_DriverStationReport Robot Code State.vi",
+      "Game Data Util.vi",
+      "Game Data Util.viPTH0",
+      "Globals.vi",
+      "Intake Teleop Handler.vi",
+      "Joystick\"WPI_JoystickRefNum Registry Get.vi",
+      "NT Read Number.vi",
+      "NT Read Number.viPTH0",
+      "NT Read Numeric Array.vi",
+      "NT Read Value.vi",
+      "Shoot Teleop Handler.vi",
+      "Shoot Teleop Handler.viPTH0",
+      "Simple Edge Detection.vi",
+      "Teleop.vi",
+      "WPI_DriverStationMatch Info.ctl",
+      "WPI_DriverStationMatch Info.ctlPTH0",
+      "WPI_GetSetVariantRefNum.vi",
+      "WPI_JoystickGetValues.vi",
+      "WPI_JoystickSetOutputs.vi",
+      "WPI_JoystickSetOutputs.viPTH0",
+      "XBox Axes Indexer.ctl",
+      "XBox Axes Indexer.ctlPTH0",
+      "XBox Buttons Indexer.ctl"
+    ],
+    "interesting": [
+      "\"WPI_JoystickRefNum Registry Get.vi",
+      "Joystick\"WPI_JoystickRefNum Registry Get.vi",
+      "Shoot Teleop Handler.viPTH0",
+      "Shoot Teleop Handler.vi",
+      "+WPI_DriverStationReport Robot Code State.viPTH0",
+      "DriverStation+WPI_DriverStationReport Robot Code State.vi",
+      "NT Read Value.vi",
+      "Network Tables",
+      "NT Read Numeric Array.vi",
+      "Globals.vi",
+      "Simple Edge Detection.vi",
+      "WPI_JoystickSetOutputs.viPTH0",
+      "Joystick",
+      "WPI_JoystickSetOutputs.vi",
+      "WPI_JoystickGetValues.vi",
+      "XBox Buttons Indexer.ctl",
+      "XBox Axes Indexer.ctlPTH0",
+      "XBox Axes Indexer.ctl",
+      "Commands",
+      "Drive Operations.ctl",
+      "NT Read Number.viPTH0",
+      "NT Read Number.vi"
+    ]
+  },
+  "Transfer/Commands/Reserve Transfer.vi": {
+    "refs": [
+      "Command Status Info.ctl",
+      "Command Status Info.ctlPTH0",
+      "Completion Notifier.ctl",
+      "Completion Notifier.ctlPTH0",
+      "Completion Status.ctl",
+      "Completion Status.ctlPTH0",
+      "Reserve Transfer.vi",
+      "Transfer Command Helper.vi",
+      "Transfer Operations.ctl",
+      "Transfer Operations.ctlPTH0",
+      "Transfer Setpoints.ctl"
+    ],
+    "interesting": [
+      "Command Status Info.ctlPTH0",
+      "Command Status Info.ctl",
+      "Completion Notifier.ctlPTH0",
+      "Completion Notifier.ctl",
+      "Transfer Setpoints.ctl",
+      "Transfer Operations.ctlPTH0",
+      "Transfer Operations.ctl",
+      "Transfer Command Helper.vi",
+      "Reserve Transfer.vi"
+    ]
+  },
+  "Transfer/Commands/Transfer Immediate.vi": {
+    "refs": [
+      "Command Status Info.ctl",
+      "Command Status Info.ctlPTH0",
+      "Completion Notifier.ctl",
+      "Completion Notifier.ctlPTH0",
+      "Completion Status.ctl",
+      "Completion Status.ctlPTH0",
+      "Transfer Command Helper.vi",
+      "Transfer Immediate.vi",
+      "Transfer Operations.ctl",
+      "Transfer Operations.ctlPTH0",
+      "Transfer Setpoints.ctl"
+    ],
+    "interesting": [
+      "Command Status Info.ctlPTH0",
+      "Command Status Info.ctl",
+      "Completion Notifier.ctlPTH0",
+      "Completion Notifier.ctl",
+      "Transfer Setpoints.ctl",
+      "Transfer Operations.ctlPTH0",
+      "Transfer Operations.ctl",
+      "Transfer Command Helper.vi",
+      "This template  is useful for immediate subsystem actions that do not need deadband filtering",
+      "Be sure to right-click and select New from Template and save with a new command name.",
+      "joystickd",
+      "Transfer Immediate.vi"
+    ]
+  }
+}
