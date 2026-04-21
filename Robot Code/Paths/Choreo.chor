@@ -76,7 +76,7 @@
  },
  "generationFeatures":[],
  "codegen":{
-  "root":"..\\C:\\Users\\zwatx\\Developer\\LabView\\rebuilt-2687\\Robot Code\\Paths",
+  "root":"..\\C:\\Users\\zwatx\\Developer\\LabView\\2026\\rebuilt-2687\\Robot Code\\Paths",
   "genVars":true,
   "genTrajData":true,
   "useChoreoLib":true
